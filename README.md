@@ -11,6 +11,6 @@ Rb = 5000 Ω
 R= Ra+ Rb= 15000 Ω 
 I= U/R= 5/15000= 0.00033A= 0.33 mA
 
-Ra = 10 Ω  Rb= 5k
-Va = I*Ra= 0.33mA * 10k Ω = 3.33 V
-Vb = I*Rb= 0.33ma * 5k Ω = 1.66 V
+Ra = 10 Ω , Rb= 5k,
+Va = I * Ra= 0.33mA * 10k Ω = 3.33 V
+Vb = I * Rb= 0.33ma * 5k Ω = 1.66 V
